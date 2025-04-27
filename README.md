@@ -52,15 +52,7 @@ Sharpen your reflexes and slice fruits mid-air before they fall — but be caref
 ---
 
 ## 🎨 Screenshots
-
 | Home Screen | Gameplay | Game Over |
 |:-----------:|:--------:|:---------:|
 | ![Home](https://raw.githubusercontent.com/Saumya-07/Fruit-Slicer/master/images/splash.png) | ![Gameplay](https://raw.githubusercontent.com/Saumya-07/Fruit-Slicer/master/images/wood-bg2.jpg) | ![Game Over](https://raw.githubusercontent.com/Saumya-07/Fruit-Slicer/master/images/bg3%20-%20Copy.jpg) |
-
 Created By Shailendra Gupta 
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
